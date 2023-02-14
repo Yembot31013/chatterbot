@@ -1,0 +1,17 @@
+##python basic scheme
+
+-Indouction
+-Output
+-variable
+-variable Type
+-burger game
+-challenge 1
+-user input
+-math
+-ice cream challenge
+-conditionals
+-pizza game
+-challenge 2
+-recap
+-final challenge
+-what next
